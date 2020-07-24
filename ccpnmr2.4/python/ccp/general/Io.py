@@ -503,7 +503,7 @@ def downloadChemCompInfoFromCcpForge(repository, molType, ccpCode, sourceName=No
 
     try:
 
-      # https: // raw.githubusercontent.com / VuisterLab / CcpNmr - ChemComps / master / data / pdbe / chemComp / archive / ChemComp / protein /
+      # https: // raw.githubusercontent.com / VuisterLab / CcpNmr - ChemComps / main / data / pdbe / chemComp / archive / ChemComp / protein /
       # protein % 2 B004 % 2 Bpdbe_ccpnRef_2010 - 0 9 - 23 - 14 - 41 - 20 - 237_00001. xml
 
       # dirData = r1.read()
